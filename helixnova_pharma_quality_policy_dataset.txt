@@ -1,0 +1,412 @@
+HELIXNOVA PHARMA
+GLOBAL QUALITY & REGULATORY OPERATIONS POLICY
+Synthetic Training Dataset - Not a real pharmaceutical policy
+
+Document ID: HNP-QMS-001
+Version: 4.2
+Effective Date: 01 September 2026
+Owner: Global Quality Operations
+Classification: Internal Training Material
+
+1. PURPOSE AND SCOPE
+
+This policy defines the minimum quality and regulatory operating rules for HelixNova Pharma's fictional manufacturing and distribution network. It applies to employees and contractors working in Manufacturing, Quality Assurance (QA), Quality Control (QC), Supply Chain, Regulatory Affairs, Pharmacovigilance, Engineering, IT, and Supplier Quality.
+
+The policy covers deviations, Corrective and Preventive Actions (CAPA), batch release, cold-chain excursions, change control, product complaints, recalls, supplier quality, data integrity, training records, electronic audit trails, and escalation requirements.
+
+This document is intentionally written as a synthetic enterprise policy for Retrieval-Augmented Generation (RAG) training.
+
+2. DEVIATION MANAGEMENT
+
+2.1 Deviation Classification
+
+A deviation is any unplanned departure from an approved procedure, validated process, specification, instruction, or expected operating condition.
+
+Deviations are classified as:
+- Critical: may directly affect patient safety, product identity, strength, quality, purity, sterility, or regulatory compliance.
+- Major: may affect product quality or process reliability but does not present an immediate patient-safety risk.
+- Minor: limited impact with no expected effect on product quality or patient safety.
+
+2.2 Reporting Timeline
+
+Critical deviations must be reported to the Site Quality Head within 30 minutes of discovery.
+
+Major deviations must be logged in the Quality Management System within 4 hours of discovery.
+
+Minor deviations must be logged before the end of the employee's current shift.
+
+2.3 Investigation Timeline
+
+A deviation investigation should normally be completed within 15 calendar days.
+
+If the investigation cannot be completed within 15 calendar days, the investigator must document the reason for extension and obtain approval from Quality Assurance.
+
+No deviation may remain open beyond 30 calendar days without written approval from the Site Quality Head.
+
+2.4 Root Cause
+
+The investigation must distinguish between:
+- immediate cause,
+- contributing factors, and
+- root cause.
+
+When the root cause cannot be conclusively established, the investigation must state this clearly and document the most likely cause with supporting evidence.
+
+3. CAPA MANAGEMENT
+
+3.1 Definition
+
+A correction fixes the immediate observed problem.
+
+A Corrective Action addresses the root cause of an existing problem to prevent recurrence.
+
+A Preventive Action addresses a credible potential cause before the problem occurs.
+
+3.2 CAPA Requirement
+
+CAPA is mandatory for:
+- all Critical deviations,
+- recurring Major deviations,
+- confirmed systemic data-integrity failures,
+- critical audit findings,
+- confirmed supplier failures with product impact,
+- recall investigations where a systemic cause is identified.
+
+A single isolated Minor deviation does not automatically require CAPA unless trend analysis shows recurrence.
+
+3.3 CAPA Timing
+
+The CAPA owner must be assigned within 2 business days after investigation approval.
+
+The target completion time for a CAPA is 60 calendar days.
+
+Extensions beyond 60 days require documented justification, risk assessment, and QA approval.
+
+CAPA effectiveness must be verified after implementation. A CAPA cannot be considered fully closed until effectiveness verification is complete.
+
+4. BATCH RELEASE
+
+4.1 Release Authority
+
+Only an authorized Quality Assurance release approver may provide final batch release.
+
+Manufacturing, QC, Supply Chain, or Commercial teams may recommend release readiness, but they cannot independently release a batch.
+
+4.2 Minimum Release Conditions
+
+Before final release, QA must confirm:
+- manufacturing records are complete,
+- required in-process controls are complete,
+- final QC results meet specification,
+- critical deviations affecting the batch are closed or formally dispositioned,
+- required CAPAs do not prohibit release,
+- labeling and packaging reconciliation is complete,
+- applicable regulatory commitments have been met.
+
+4.3 Conditional Release
+
+Conditional release is not permitted for unresolved Critical quality issues.
+
+A batch with an open Minor deviation may be released only when QA documents that the issue does not affect product quality, patient safety, or regulatory compliance.
+
+5. COLD-CHAIN AND TEMPERATURE EXCURSIONS
+
+5.1 Approved Range
+
+For products labeled for refrigerated storage, the standard approved storage and transport range is 2 C to 8 C unless the product-specific label or stability protocol states otherwise.
+
+5.2 Excursion Handling
+
+Any confirmed temperature reading outside the approved product range is a temperature excursion.
+
+A temperature excursion does not automatically mean the product must be destroyed.
+
+The affected shipment or inventory must be placed on quality hold until an authorized quality assessment is completed.
+
+5.3 Escalation
+
+A temperature excursion involving a commercial batch must be notified to Site QA within 1 hour.
+
+If the excursion potentially affects a distributed product, the Global Quality Operations team must be notified within 2 hours.
+
+5.4 Disposition
+
+Quality disposition must use available stability data, duration of excursion, maximum/minimum temperature, packaging configuration, transport conditions, and product-specific requirements.
+
+Only QA may approve return to usable inventory after a temperature excursion.
+
+6. CHANGE CONTROL
+
+6.1 When Change Control Is Required
+
+Formal change control is required before implementing changes that may affect:
+- validated manufacturing processes,
+- product specifications,
+- analytical methods,
+- critical equipment,
+- computerized systems used for GxP records,
+- approved suppliers of critical material,
+- labeling,
+- packaging,
+- storage conditions,
+- regulatory commitments.
+
+6.2 Emergency Changes
+
+Emergency changes may be implemented before full approval only when necessary to protect patient safety, employee safety, product quality, or business continuity.
+
+The emergency change must be documented immediately and entered into the formal change-control process within 1 business day.
+
+6.3 Implementation
+
+A change must not be considered complete until required validation, testing, training, documentation updates, and regulatory assessments are finished.
+
+7. PRODUCT COMPLAINTS
+
+7.1 Complaint Intake
+
+All product quality complaints must be recorded in the complaint system within 1 business day of receipt.
+
+Complaints involving potential patient safety must be escalated immediately to QA and Pharmacovigilance.
+
+7.2 Investigation
+
+Complaint investigations must review available manufacturing history, batch records, deviation history, complaint trends, and relevant distribution information.
+
+7.3 Serious Safety Information
+
+If a complaint includes a possible adverse event, it must be forwarded to Pharmacovigilance within 24 hours of first awareness.
+
+The complaint team must not independently determine whether an adverse event is reportable to a health authority.
+
+8. PRODUCT RECALL AND MARKET ACTION
+
+8.1 Recall Trigger
+
+A recall assessment is required when information indicates that distributed product may present a patient-safety risk, serious quality defect, labeling error with clinical impact, contamination risk, or significant regulatory non-compliance.
+
+8.2 Escalation Timeline
+
+A potential recall must be escalated to the Global Recall Committee within 1 hour of confirmation of a credible distributed-product risk.
+
+If the information is incomplete but a serious patient-safety risk cannot be excluded, escalation must not be delayed while waiting for complete information.
+
+8.3 Recall Decision
+
+The Global Recall Committee makes the internal recall recommendation.
+
+Regulatory Affairs coordinates required communication with health authorities.
+
+Commercial teams may support customer communications but may not independently authorize or cancel a recall.
+
+9. SUPPLIER QUALITY
+
+9.1 Supplier Qualification
+
+Critical suppliers must be approved before routine use.
+
+Qualification may include:
+- quality questionnaire,
+- risk assessment,
+- audit,
+- sample testing,
+- quality agreement,
+- regulatory verification.
+
+9.2 Supplier Changes
+
+A critical supplier must notify HelixNova of significant changes that could affect product quality.
+
+Such changes must be assessed through supplier quality and, when applicable, formal change control.
+
+9.3 Supplier Performance
+
+Critical supplier performance is reviewed at least annually.
+
+Repeated critical failures may result in enhanced monitoring, temporary suspension, or disqualification.
+
+10. DATA INTEGRITY
+
+10.1 Core Principle
+
+GxP data must be attributable, legible, contemporaneous, original, accurate, complete, consistent, enduring, and available.
+
+10.2 Electronic Records
+
+Users must not share individual system accounts.
+
+Electronic records must preserve the identity of the person performing the action and the date/time of the action.
+
+Audit trails for critical GxP systems must be enabled and must not be disabled during normal operation.
+
+10.3 Data Changes
+
+When a GxP record is corrected, the original information must remain traceable.
+
+A correction must identify:
+- what was changed,
+- who changed it,
+- when it was changed, and
+- why it was changed.
+
+Deleting, overwriting, or obscuring original GxP data to hide an error is prohibited.
+
+10.4 Data Integrity Escalation
+
+Suspected deliberate data falsification must be escalated immediately to the Site Quality Head.
+
+Confirmed systemic data-integrity failures require CAPA and management review.
+
+11. TRAINING AND QUALIFICATION
+
+11.1 Training Before Work
+
+Employees must complete required role-based training before independently performing regulated activities.
+
+11.2 Retraining
+
+Retraining is required when:
+- a procedure changes materially,
+- a recurring execution error is linked to a knowledge gap,
+- CAPA specifies retraining,
+- qualification expires.
+
+11.3 Training Records
+
+Completed training records must be retained for at least 7 years after completion unless a longer legal or product-specific requirement applies.
+
+12. COMPUTERIZED SYSTEMS AND ACCESS
+
+12.1 Access Control
+
+Access to GxP systems must be role-based and approved.
+
+Generic shared accounts are prohibited for activities that create, modify, review, or approve GxP records.
+
+12.2 Privileged Access
+
+Administrative access must be restricted to authorized personnel.
+
+Privileged actions affecting GxP data must be auditable.
+
+12.3 Production Changes
+
+Direct unapproved changes to production GxP systems are prohibited.
+
+Production changes must follow approved change control, testing, and release procedures unless an approved emergency-change process applies.
+
+13. SECURITY INCIDENTS AFFECTING QUALITY SYSTEMS
+
+13.1 Severity 1 Quality-System Security Incident
+
+A Severity 1 incident includes:
+- confirmed unauthorized modification of regulated data,
+- ransomware affecting a critical GxP system,
+- loss of availability of a critical release system with immediate product impact,
+- confirmed compromise of privileged GxP credentials.
+
+13.2 Escalation
+
+A Severity 1 quality-system security incident must be escalated to the IT Security Incident Lead and Site Quality Head within 15 minutes of confirmation.
+
+Regulatory Affairs must be engaged when the incident could affect a regulatory submission, required record, or reportable product issue.
+
+14. DOCUMENT CONTROL
+
+14.1 Approved Documents
+
+Only the current approved version of a controlled procedure may be used for regulated work.
+
+Printed uncontrolled copies must be clearly marked as uncontrolled.
+
+14.2 Obsolete Documents
+
+Obsolete controlled procedures must be removed from active-use locations and retained according to the applicable records-retention schedule.
+
+15. AI AND RAG ASSISTANT GOVERNANCE
+
+15.1 Permitted Use
+
+An AI or RAG assistant may help employees:
+- locate policy content,
+- summarize approved procedures,
+- identify relevant sections,
+- explain terminology,
+- prepare draft questions for quality review.
+
+15.2 Prohibited Autonomous Decisions
+
+An AI assistant must not independently:
+- release or reject a pharmaceutical batch,
+- close a deviation,
+- approve a CAPA,
+- approve a change control,
+- determine final product disposition,
+- authorize a recall,
+- change an approved GxP record,
+- bypass human approval requirements.
+
+15.3 Grounding Requirement
+
+When an AI assistant answers questions about this policy, it should use retrieved approved policy content as the basis for the response.
+
+If the retrieved policy context does not contain enough information to answer, the assistant should state that it could not find enough information in the document rather than inventing an answer.
+
+15.4 Human Accountability
+
+The employee using the assistant remains responsible for verifying important decisions against the approved source document and applicable procedures.
+
+16. RECORDS RETENTION
+
+Unless a more specific requirement applies:
+- deviation records: retain for 10 years after closure,
+- CAPA records: retain for 10 years after closure,
+- batch records: retain for at least 1 year after product expiry or 7 years after batch release, whichever is longer,
+- training records: retain for at least 7 years after completion,
+- supplier qualification records: retain for 7 years after supplier disqualification or end of use,
+- recall records: retain for at least 10 years after closure.
+
+17. ESCALATION SUMMARY
+
+Critical deviation:
+- Notify Site Quality Head within 30 minutes.
+
+Commercial-batch temperature excursion:
+- Notify Site QA within 1 hour.
+
+Potential distributed-product impact from temperature excursion:
+- Notify Global Quality Operations within 2 hours.
+
+Potential recall:
+- Escalate to Global Recall Committee within 1 hour of confirmed credible risk.
+
+Possible adverse event received through product complaint:
+- Forward to Pharmacovigilance within 24 hours.
+
+Severity 1 security incident affecting a critical GxP system:
+- Escalate to IT Security Incident Lead and Site Quality Head within 15 minutes.
+
+Suspected deliberate data falsification:
+- Escalate immediately to Site Quality Head.
+
+18. EXAMPLE QUESTIONS FOR RAG EVALUATION
+
+The following questions are included only to help trainers test retrieval:
+
+1. How quickly must a Critical deviation be reported?
+2. How many days should a deviation investigation normally take?
+3. When is CAPA mandatory?
+4. Who has final authority to release a batch?
+5. Can an unresolved Critical issue receive conditional batch release?
+6. What happens when refrigerated product exceeds its approved temperature range?
+7. How quickly must a commercial-batch temperature excursion be reported?
+8. When is formal change control required?
+9. How quickly must a possible adverse event be sent to Pharmacovigilance?
+10. Who can authorize a product recall?
+11. What are the expectations for electronic audit trails?
+12. How long are completed training records retained?
+13. How quickly must a Severity 1 security incident be escalated?
+14. Can an AI assistant close a deviation or approve a batch?
+15. What should the RAG assistant do when the retrieved context does not contain the answer?
+
+END OF SYNTHETIC TRAINING POLICY

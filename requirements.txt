@@ -1,0 +1,7 @@
+streamlit
+anthropic
+faiss-cpu
+sentence-transformers
+pypdf
+python-dotenv
+numpy

@@ -1,0 +1,18 @@
+question,expected_answer,expected_keywords,expected_source
+How quickly must a Critical deviation be reported?,To the Site Quality Head within 30 minutes of discovery.,30 minutes;Site Quality Head,helixnova_pharma_quality_policy_dataset
+How many days should a deviation investigation normally take?,Normally within 15 calendar days.,15,helixnova_pharma_quality_policy_dataset
+What is the target completion time for a CAPA?,60 calendar days.,60,helixnova_pharma_quality_policy_dataset
+Who has final authority to release a batch?,Only an authorized Quality Assurance release approver.,release approver,helixnova_pharma_quality_policy_dataset
+Can an unresolved Critical issue receive conditional batch release?,No. Conditional release is not permitted for unresolved Critical quality issues.,not,helixnova_pharma_quality_policy_dataset
+How quickly must a commercial-batch temperature excursion be reported to Site QA?,Within 1 hour.,1 hour|one hour,helixnova_pharma_quality_policy_dataset
+What is the standard storage range for refrigerated products?,2 C to 8 C unless the product label or stability protocol states otherwise.,2;8,helixnova_pharma_quality_policy_dataset
+How quickly must a possible adverse event be sent to Pharmacovigilance?,Within 24 hours of first awareness.,24 hours|24-hour,helixnova_pharma_quality_policy_dataset
+Who makes the internal recall recommendation?,The Global Recall Committee.,Global Recall Committee,helixnova_pharma_quality_policy_dataset
+How long are completed training records retained?,At least 7 years after completion.,7 years|seven years,helixnova_pharma_quality_policy_dataset
+How quickly must a Severity 1 security incident be escalated?,Within 15 minutes of confirmation to the IT Security Incident Lead and Site Quality Head.,15 minutes|fifteen minutes,helixnova_pharma_quality_policy_dataset
+How long must deviation records be retained?,10 years after closure.,10 years|ten years,helixnova_pharma_quality_policy_dataset
+How soon must an emergency change be entered into formal change control?,Within 1 business day.,1 business day|one business day,helixnova_pharma_quality_policy_dataset
+Can an AI assistant close a deviation or approve a batch?,No. An AI assistant must not independently close a deviation or release a batch.,not,helixnova_pharma_quality_policy_dataset
+What is the maximum daily dose of paracetamol for adults?,I could not find the answer to this question in the uploaded policy document.,,
+What was HelixNova Pharma's revenue last year?,I could not find the answer to this question in the uploaded policy document.,,
+Who is the CEO of HelixNova Pharma?,I could not find the answer to this question in the uploaded policy document.,,
